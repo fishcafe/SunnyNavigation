@@ -18,11 +18,11 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = "Swift SunnyNavigation. lol"
 
-  s.homepage         = "https://github.com/fishcafe/SunnyNavigation"
+  s.homepage         = "https://github.com/itamaker/SunnyNavigation"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "amaker" => "itamaker@gmail.com" }
-  s.source           = { :git => "https://github.com/fishcafe/SunnyNavigation.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/itamaker/SunnyNavigation.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'
